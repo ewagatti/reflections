@@ -4,3 +4,12 @@ When you push your work from different computers, or when more people are workin
 Why might you want to always pull changes manually rather than having Git automatically stay 
 up-to-date with your remote repository?
 I can control which commits I want to share with others in my public Git repository.
+
+Describe the differences between forks, clones, and branches. When would you use one 
+instead of another?
+Forks - possible only on Github, you clone one repository from someone's GitHub,
+you can fork it into your own GitHub.
+Clones refers to clone between Github and a repo locally. It is possible to clone a
+repo from Github to local computer to make changes.
+Branches - labeled commits of one respository. When you work on new features on current project, 
+you can create a new branch without changing your master branch.
