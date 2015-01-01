@@ -16,3 +16,6 @@ you can create a new branch without changing your master branch.
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 The benefit would be that you might change the working copy of the remote even if you are offline.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+I would use google docs or dropbox, however, it might be harder to find bugs if more people work on the same project.
