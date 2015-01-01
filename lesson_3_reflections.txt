@@ -13,3 +13,6 @@ Clones refers to clone between Github and a repo locally. It is possible to clon
 repo from Github to local computer to make changes.
 Branches - labeled commits of one respository. When you work on new features on current project, 
 you can create a new branch without changing your master branch.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+The benefit would be that you might change the working copy of the remote even if you are offline.
