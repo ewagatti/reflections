@@ -19,3 +19,8 @@ The benefit would be that you might change the working copy of the remote even i
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 I would use google docs or dropbox, however, it might be harder to find bugs if more people work on the same project.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+I would work on a separete branch if I work on new features, so that I have my master untouched and any problem with conflicts
+with other peopole who committed theri changes. 
+
